@@ -1,0 +1,8 @@
+// 
+namespace InventoryMgr
+{
+    class Item {
+        
+    }
+    
+}
